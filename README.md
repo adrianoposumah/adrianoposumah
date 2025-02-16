@@ -14,7 +14,7 @@ I'm currently focused on mastering full-stack development, exploring both front-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/adrianoposumah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoposumah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoposumah&layout=compact&langs_count=8&theme=algolia"/>
@@ -22,5 +22,8 @@ I'm currently focused on mastering full-stack development, exploring both front-
 </p>
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/adriano-posumah-317b82310"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:adrianoposumah@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/adriano-posumah-317b82310"><img src="https://img.shields.io/badge/-Adriano%20Posumah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-adrianoposumah@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/adrianopsmh"><img src="https://img.shields.io/badge/-@adrianopsmh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
