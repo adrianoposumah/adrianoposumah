@@ -1,4 +1,4 @@
-### Hi there! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/> I'm Adriano. [![GitHub adrianoposumah](https://img.shields.io/github/followers/adrianoposumah?label=follow&style=social)](https://github.com/adrianoposumah)&nbsp;
+### Hi there! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/> I'm Adriano. [![GitHub adrianoposumah](https://img.shields.io/github/followers/adrianoposumah?label=follow&style=social)](https%3A%2F%2Fgithub.com%2Fadrianoposumah)&nbsp;
 
 An undergraduate Software Engineer passionate about learning and building full-stack web applications! I enjoy working with JavaScript and have made it my primary language for developing projects.
 
